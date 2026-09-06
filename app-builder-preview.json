@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "FORGE SPACE",
+      "hasCanvas": false,
+      "bodyTextLen": 650,
+      "bodyTextHash": "45e313c14cd943b96bdc3c320c4989475ca9c65bbc107c6f404fcef14744e7b1",
+      "bodyTextPrefix": "Note 10+ 02:22 PM GAME FORGE SPACE Game booster Galaxy Note 10+ ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "FORGE SPACE",
+      "hasCanvas": false,
+      "bodyTextLen": 650,
+      "bodyTextHash": "45e313c14cd943b96bdc3c320c4989475ca9c65bbc107c6f404fcef14744e7b1",
+      "bodyTextPrefix": "Note 10+ 02:22 PM GAME FORGE SPACE Game booster Galaxy Note 10+ ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
